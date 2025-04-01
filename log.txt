@@ -1,0 +1,1810 @@
+Request method:	GET
+Request URI:	https://automationexercise.com/api/productsList
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:57:14 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept,Cookie,Accept-Encoding
+Referrer-Policy: same-origin
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Allow: GET, OPTIONS, POST, PUT, DELETE
+X-Powered-By: Phusion Passenger(R) 6.0.23
+Status: 200 OK
+Server: cloudflare
+Cf-Cache-Status: DYNAMIC
+Content-Encoding: gzip
+CF-RAY: 9299f7ba5cdcfe04-SIN
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 200, "products": [{"id": 1, "name": "Blue Top", "price": "Rs. 500", "brand": "Polo", "category": {"usertype": {"usertype": "Women"}, "category": "Tops"}}, {"id": 2, "name": "Men Tshirt", "price": "Rs. 400", "brand": "H&amp;M", "category": {"usertype": {"usertype": "Men"}, "category": "Tshirts"}}, {"id": 3, "name": "Sleeveless Dress", "price": "Rs. 1000", "brand": "Madame", "category": {"usertype": {"usertype": "Women"}, "category": "Dress"}}, {"id": 4, "name": "Stylish Dress", "price": "Rs. 1500", "brand": "Madame", "category": {"usertype": {"usertype": "Women"}, "category": "Dress"}}, {"id": 5, "name": "Winter Top", "price": "Rs. 600", "brand": "Mast &amp; Harbour", "category": {"usertype": {"usertype": "Women"}, "category": "Tops"}}, {"id": 6, "name": "Summer White Top", "price": "Rs. 400", "brand": "H&amp;M", "category": {"usertype": {"usertype": "Women"}, "category": "Tops"}}, {"id": 7, "name": "Madame Top For Women", "price": "Rs. 1000", "brand": "Madame", "category": {"usertype": {"usertype": "Women"}, "category": "Tops"}}, {"id": 8, "name": "Fancy Green Top", "price": "Rs. 700", "brand": "Polo", "category": {"usertype": {"usertype": "Women"}, "category": "Tops"}}, {"id": 11, "name": "Sleeves Printed Top - White", "price": "Rs. 499", "brand": "Babyhug", "category": {"usertype": {"usertype": "Kids"}, "category": "Tops &amp; Shirts"}}, {"id": 12, "name": "Half Sleeves Top Schiffli Detailing - Pink", "price": "Rs. 359", "brand": "Babyhug", "category": {"usertype": {"usertype": "Kids"}, "category": "Tops &amp; Shirts"}}, {"id": 13, "name": "Frozen Tops For Kids", "price": "Rs. 278", "brand": "Allen Solly Junior", "category": {"usertype": {"usertype": "Kids"}, "category": "Tops &amp; Shirts"}}, {"id": 14, "name": "Full Sleeves Top Cherry - Pink", "price": "Rs. 679", "brand": "Kookie Kids", "category": {"usertype": {"usertype": "Kids"}, "category": "Tops &amp; Shirts"}}, {"id": 15, "name": "Printed Off Shoulder Top - White", "price": "Rs. 315", "brand": "Babyhug", "category": {"usertype": {"usertype": "Kids"}, "category": "Tops &amp; Shirts"}}, {"id": 16, "name": "Sleeves Top and Short - Blue &amp; Pink", "price": "Rs. 478", "brand": "Babyhug", "category": {"usertype": {"usertype": "Kids"}, "category": "Dress"}}, {"id": 18, "name": "Little Girls Mr. Panda Shirt", "price": "Rs. 1200", "brand": "Kookie Kids", "category": {"usertype": {"usertype": "Kids"}, "category": "Tops &amp; Shirts"}}, {"id": 19, "name": "Sleeveless Unicorn Patch Gown - Pink", "price": "Rs. 1050", "brand": "Allen Solly Junior", "category": {"usertype": {"usertype": "Kids"}, "category": "Dress"}}, {"id": 20, "name": "Cotton Mull Embroidered Dress", "price": "Rs. 1190", "brand": "Kookie Kids", "category": {"usertype": {"usertype": "Kids"}, "category": "Dress"}}, {"id": 21, "name": "Blue Cotton Indie Mickey Dress", "price": "Rs. 1530", "brand": "Biba", "category": {"usertype": {"usertype": "Kids"}, "category": "Dress"}}, {"id": 22, "name": "Long Maxi Tulle Fancy Dress Up Outfits -Pink", "price": "Rs. 1600", "brand": "Biba", "category": {"usertype": {"usertype": "Kids"}, "category": "Dress"}}, {"id": 23, "name": "Sleeveless Unicorn Print Fit &amp; Flare Net Dress - Multi", "price": "Rs. 1100", "brand": "Biba", "category": {"usertype": {"usertype": "Kids"}, "category": "Dress"}}, {"id": 24, "name": "Colour Blocked Shirt \u2013 Sky Blue", "price": "Rs. 849", "brand": "Allen Solly Junior", "category": {"usertype": {"usertype": "Kids"}, "category": "Tops &amp; Shirts"}}, {"id": 28, "name": "Pure Cotton V-Neck T-Shirt", "price": "Rs. 1299", "brand": "H&amp;M", "category": {"usertype": {"usertype": "Men"}, "category": "Tshirts"}}, {"id": 29, "name": "Green Side Placket Detail T-Shirt", "price": "Rs. 1000", "brand": "Polo", "category": {"usertype": {"usertype": "Men"}, "category": "Tshirts"}}, {"id": 30, "name": "Premium Polo T-Shirts", "price": "Rs. 1500", "brand": "Polo", "category": {"usertype": {"usertype": "Men"}, "category": "Tshirts"}}, {"id": 31, "name": "Pure Cotton Neon Green Tshirt", "price": "Rs. 850", "brand": "H&amp;M", "category": {"usertype": {"usertype": "Men"}, "category": "Tshirts"}}, {"id": 33, "name": "Soft Stretch Jeans", "price": "Rs. 799", "brand": "Polo", "category": {"usertype": {"usertype": "Men"}, "category": "Jeans"}}, {"id": 35, "name": "Regular Fit Straight Jeans", "price": "Rs. 1200", "brand": "H&amp;M", "category": {"usertype": {"usertype": "Men"}, "category": "Jeans"}}, {"id": 37, "name": "Grunt Blue Slim Fit Jeans", "price": "Rs. 1400", "brand": "Polo", "category": {"usertype": {"usertype": "Men"}, "category": "Jeans"}}, {"id": 38, "name": "Rose Pink Embroidered Maxi Dress", "price": "Rs. 2300", "brand": "Madame", "category": {"usertype": {"usertype": "Women"}, "category": "Dress"}}, {"id": 39, "name": "Cotton Silk Hand Block Print Saree", "price": "Rs. 3000", "brand": "Biba", "category": {"usertype": {"usertype": "Women"}, "category": "Saree"}}, {"id": 40, "name": "Rust Red Linen Saree", "price": "Rs. 3500", "brand": "Biba", "category": {"usertype": {"usertype": "Women"}, "category": "Saree"}}, {"id": 41, "name": "Beautiful Peacock Blue Cotton Linen Saree", "price": "Rs. 5000", "brand": "Madame", "category": {"usertype": {"usertype": "Women"}, "category": "Saree"}}, {"id": 42, "name": "Lace Top For Women", "price": "Rs. 1400", "brand": "Mast &amp; Harbour", "category": {"usertype": {"usertype": "Women"}, "category": "Tops"}}, {"id": 43, "name": "GRAPHIC DESIGN MEN T SHIRT - BLUE", "price": "Rs. 1389", "brand": "Mast &amp; Harbour", "category": {"usertype": {"usertype": "Men"}, "category": "Tshirts"}}]}</body>
+</html>
+Request method:	POST
+Request URI:	https://automationexercise.com/api/searchProduct
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	search_product=Polo
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:57:17 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept,Cookie,Accept-Encoding
+Referrer-Policy: same-origin
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Allow: GET, OPTIONS, POST, PUT, DELETE
+X-Powered-By: Phusion Passenger(R) 6.0.23
+Status: 200 OK
+Server: cloudflare
+Cf-Cache-Status: DYNAMIC
+Content-Encoding: gzip
+CF-RAY: 9299f7ce8e09eba1-SIN
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 200, "products": [{"id": 30, "name": "Premium Polo T-Shirts", "price": "Rs. 1500", "brand": "Polo", "category": {"usertype": {"usertype": "Men"}, "category": "Tshirts"}}]}</body>
+</html>
+Request method:	POST
+Request URI:	https://automationexercise.com/api/createAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	name=Arun
+				email=arun22@eml.com
+				password=pass123
+				title=Mr
+				birth_date=5
+				birth_month=January
+				birth_year=1990
+				firstname=Arun
+				lastname=Sharma
+				company=TechCorp
+				address1=123 Street
+				address2=Apt 4
+				country=India
+				zipcode=110001
+				state=Delhi
+				city=New Delhi
+				mobile_number=9876543210
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:57:25 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept,Cookie,Accept-Encoding
+Referrer-Policy: same-origin
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Allow: OPTIONS, POST
+X-Powered-By: Phusion Passenger(R) 6.0.23
+Status: 200 OK
+Server: cloudflare
+Cf-Cache-Status: DYNAMIC
+Content-Encoding: gzip
+CF-RAY: 9299f7fd69f0fe87-SIN
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 201, "message": "User created!"}</body>
+</html>
+Request method:	POST
+Request URI:	https://automationexercise.com/api/createAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	name=Meera
+				email=meera22@eml.com
+				password=pass456
+				title=Ms
+				birth_date=10
+				birth_month=February
+				birth_year=1995
+				firstname=Meera
+				lastname=Iyer
+				company=InfoTech
+				address1=456 Lane
+				address2=Block B
+				country=India
+				zipcode=560002
+				state=Karnataka
+				city=Bangalore
+				mobile_number=9876543221
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:57:27 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept,Cookie,Accept-Encoding
+Referrer-Policy: same-origin
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Allow: OPTIONS, POST
+X-Powered-By: Phusion Passenger(R) 6.0.23
+Status: 200 OK
+Server: cloudflare
+Cf-Cache-Status: DYNAMIC
+Content-Encoding: gzip
+CF-RAY: 9299f8079e454c7d-SIN
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 201, "message": "User created!"}</body>
+</html>
+Request method:	POST
+Request URI:	https://automationexercise.com/api/createAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	name=Rahul
+				email=rahul23@eml.com
+				password=pass789
+				title=Mr
+				birth_date=15
+				birth_month=March
+				birth_year=1988
+				firstname=Rahul
+				lastname=Kumar
+				company=SoftSolutions
+				address1=789 Road
+				address2=Suite 10
+				country=India
+				zipcode=400003
+				state=Maharashtra
+				city=Mumbai
+				mobile_number=9876543232
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:57:29 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: OPTIONS, POST
+x-powered-by: Phusion Passenger(R) 6.0.23
+status: 200 OK
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=f7dCKYdgR9naFW7WH6ypmaXPjR%2BrKzgyMG2j9j2Dl2lKHF3t4dwHbdxCFkKhn2uHcTMfRobiUohYlFsCfQt3jy%2BMGGZWxLL6YwO0xYmi%2Bqn8cdFHpZcJndVwTN%2BUp1hzXA6dqFwQa2ez"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 9299f81498dc35aa-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=268156&min_rtt=223576&rtt_var=96981&sent=7&recv=7&lost=0&retrans=0&sent_bytes=2873&recv_bytes=1001&delivery_rate=12881&cwnd=252&unsent_bytes=0&cid=c9b85eac4d907db5&ts=1558&x=0"
+
+<html>
+  <body>{"responseCode": 201, "message": "User created!"}</body>
+</html>
+Request method:	POST
+Request URI:	https://automationexercise.com/api/createAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	name=Sita
+				email=sita24@eml.com
+				password=pass321
+				title=Mrs
+				birth_date=20
+				birth_month=April
+				birth_year=1992
+				firstname=Sita
+				lastname=Verma
+				company=CodeBase
+				address1=101 Street
+				address2=Floor 2
+				country=India
+				zipcode=600004
+				state=Tamil Nadu
+				city=Chennai
+				mobile_number=9876543243
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:57:31 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept,Cookie,Accept-Encoding
+Referrer-Policy: same-origin
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Allow: OPTIONS, POST
+X-Powered-By: Phusion Passenger(R) 6.0.23
+Status: 200 OK
+Server: cloudflare
+Cf-Cache-Status: DYNAMIC
+Content-Encoding: gzip
+CF-RAY: 9299f823cd52eba2-SIN
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 201, "message": "User created!"}</body>
+</html>
+Request method:	POST
+Request URI:	https://automationexercise.com/api/createAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	name=Vikram
+				email=vikram25@eml.com
+				password=pass654
+				title=Mr
+				birth_date=25
+				birth_month=May
+				birth_year=1985
+				firstname=Vikram
+				lastname=Singh
+				company=WebWorks
+				address1=202 Avenue
+				address2=Unit 3
+				country=India
+				zipcode=700005
+				state=West Bengal
+				city=Kolkata
+				mobile_number=9876543254
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:57:33 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: OPTIONS, POST
+x-powered-by: Phusion Passenger(R) 6.0.23
+status: 200 OK
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=1UWbe1NAWCxK7hpkAvjqisD0VD2IqS3UbvFVTtGNuj%2B1qvHii%2F%2Bwshm%2F4AHRq8ogvHieET2x3QDfZDWFnBbmJop9l53YaOgSzUf64x2Z2rThlRpywa4VEFcM%2BXGL%2BUWek9d4AA3OBRKE"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 9299f8315b55401e-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=213150&min_rtt=196061&rtt_var=84088&sent=7&recv=7&lost=0&retrans=0&sent_bytes=2872&recv_bytes=1000&delivery_rate=10293&cwnd=251&unsent_bytes=0&cid=4bc7579196ccf513&ts=1069&x=0"
+
+<html>
+  <body>{"responseCode": 201, "message": "User created!"}</body>
+</html>
+Request method:	POST
+Request URI:	https://automationexercise.com/api/createAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	name=Priya
+				email=priya26@eml.com
+				password=pass987
+				title=Ms
+				birth_date=30
+				birth_month=June
+				birth_year=1998
+				firstname=Priya
+				lastname=Menon
+				company=CloudNet
+				address1=303 Street
+				address2=Tower 5
+				country=India
+				zipcode=500006
+				state=Telangana
+				city=Hyderabad
+				mobile_number=9876543265
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:57:34 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: OPTIONS, POST
+x-powered-by: Phusion Passenger(R) 6.0.23
+status: 200 OK
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=otOMUete0AH2DpkpoucWUzKdUGOfPDmkvM4%2FMei%2Be13UABOlalgceLRRXg0ZbylICk2TVjdm%2FIrcZIA2uB2u7uT6mhs9vzxraAoWu5ALqYIpWseMDXAxbRn9hHp74RnWFZKQrD515Tg3"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 9299f8388eecfdca-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=92602&min_rtt=67106&rtt_var=40742&sent=7&recv=7&lost=0&retrans=0&sent_bytes=2873&recv_bytes=997&delivery_rate=42917&cwnd=252&unsent_bytes=0&cid=bc649b29234bb54d&ts=1109&x=0"
+
+<html>
+  <body>{"responseCode": 201, "message": "User created!"}</body>
+</html>
+Request method:	POST
+Request URI:	https://automationexercise.com/api/createAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	name=Amit
+				email=amit27@eml.com
+				password=pass111
+				title=Mr
+				birth_date=5
+				birth_month=July
+				birth_year=1983
+				firstname=Amit
+				lastname=Joshi
+				company=DevTech
+				address1=404 Road
+				address2=Building 6
+				country=India
+				zipcode=380007
+				state=Gujarat
+				city=Ahmedabad
+				mobile_number=9876543276
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:57:36 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept,Cookie,Accept-Encoding
+Referrer-Policy: same-origin
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Allow: OPTIONS, POST
+X-Powered-By: Phusion Passenger(R) 6.0.23
+Status: 200 OK
+Server: cloudflare
+Cf-Cache-Status: DYNAMIC
+Content-Encoding: gzip
+CF-RAY: 9299f8421f23fd1c-SIN
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 201, "message": "User created!"}</body>
+</html>
+Request method:	POST
+Request URI:	https://automationexercise.com/api/createAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	name=Neha
+				email=neha28@eml.com
+				password=pass222
+				title=Mrs
+				birth_date=10
+				birth_month=August
+				birth_year=1996
+				firstname=Neha
+				lastname=Kapoor
+				company=InnoSoft
+				address1=505 Circle
+				address2=Villa 7
+				country=India
+				zipcode=110008
+				state=Delhi
+				city=New Delhi
+				mobile_number=9876543287
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:57:37 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: OPTIONS, POST
+x-powered-by: Phusion Passenger(R) 6.0.23
+status: 200 OK
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=UjPu8bXP%2FlO94WHOyYti7XZ5FinVttjFty61nsKVhSU%2FefXSuoGdu0LXJAPFX6TecwJnBMKAFgeWsnvXjZusQFCHWfRCTwyNFfPEA%2FtUl3ZdM49R%2FnIy9Pzo4ZkT9RE%2BZqqdHwbVtVh8"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 9299f84bccbffd1a-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=65749&min_rtt=63010&rtt_var=20692&sent=7&recv=8&lost=0&retrans=0&sent_bytes=2874&recv_bytes=996&delivery_rate=45707&cwnd=252&unsent_bytes=0&cid=6b4d28025a5e4e95&ts=1093&x=0"
+
+<html>
+  <body>{"responseCode": 201, "message": "User created!"}</body>
+</html>
+Request method:	POST
+Request URI:	https://automationexercise.com/api/createAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	name=Rohan
+				email=rohan29@eml.com
+				password=pass333
+				title=Mr
+				birth_date=15
+				birth_month=September
+				birth_year=1991
+				firstname=Rohan
+				lastname=Tiwari
+				company=SysWorks
+				address1=606 Square
+				address2=Penthouse
+				country=India
+				zipcode=220009
+				state=Uttar Pradesh
+				city=Lucknow
+				mobile_number=9876543298
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:57:39 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept,Cookie,Accept-Encoding
+Referrer-Policy: same-origin
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Allow: OPTIONS, POST
+X-Powered-By: Phusion Passenger(R) 6.0.23
+Status: 200 OK
+Server: cloudflare
+Cf-Cache-Status: DYNAMIC
+Content-Encoding: gzip
+CF-RAY: 9299f854bb935f27-SIN
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 201, "message": "User created!"}</body>
+</html>
+Request method:	POST
+Request URI:	https://automationexercise.com/api/createAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	name=Ananya
+				email=ananya122@eml.com
+				password=pass444
+				title=Ms
+				birth_date=20
+				birth_month=October
+				birth_year=1993
+				firstname=Ananya
+				lastname=Das
+				company=NetSolutions
+				address1=707 Plaza
+				address2=Flat 8
+				country=India
+				zipcode=800010
+				state=Bihar
+				city=Patna
+				mobile_number=9876543309
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:57:40 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: OPTIONS, POST
+x-powered-by: Phusion Passenger(R) 6.0.23
+status: 200 OK
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=ijw0FlnCWofgRdp82C78gMRivySt6Nsrwy30hp943N2ih6LC7Nq17oqgtyCo2TXOUHTFsflQY%2B471WIzfRitwaxAVgL1rgJXTZhP4tI%2FVHGZ7USZJjCgKs5Y2XO4vBf0jUV5X6wTaVza"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 9299f85e2e9ecde9-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=64405&min_rtt=62993&rtt_var=20235&sent=7&recv=7&lost=0&retrans=0&sent_bytes=2873&recv_bytes=996&delivery_rate=42411&cwnd=231&unsent_bytes=0&cid=85c5e635270e2ec3&ts=709&x=0"
+
+<html>
+  <body>{"responseCode": 201, "message": "User created!"}</body>
+</html>
+Request method:	POST
+Request URI:	https://automationexercise.com/api/verifyLogin
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	email=arun55@mgai.com
+				password=1243434
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:57:41 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: GET, OPTIONS, POST, PUT, DELETE
+x-powered-by: Phusion Passenger(R) 6.0.23
+status: 200 OK
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=ammwucHR4Cr%2BWR5xkwVxISYgr%2FJoBxdZ4Ke6E8NfEzi5jb2ktAcGOWejJ3ViyftZ5udqlVV6qRtH%2F4x33kV9SjtRIVDhcI5RgihwIRgM%2BrVcl9EBdf8ltustbH2Mz0ng9J6XdH2rc2ZW"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 9299f8638cfcaa81-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=64550&min_rtt=64002&rtt_var=19003&sent=7&recv=7&lost=0&retrans=0&sent_bytes=2873&recv_bytes=753&delivery_rate=43954&cwnd=252&unsent_bytes=0&cid=f765d177a49a48c8&ts=1152&x=0"
+
+<html>
+  <body>{"responseCode": 200, "message": "User exists!"}</body>
+</html>
+Request method:	PUT
+Request URI:	https://automationexercise.com/api/updateAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	name=Arun
+				email=arun22@eml.com
+				password=pass123
+				title=Mr
+				birth_date=5
+				birth_month=January
+				birth_year=1990
+				firstname=Arun
+				lastname=Sharma
+				company=TCS
+				address1=123 Street
+				address2=Apt 4
+				country=India
+				zipcode=110001
+				state=Delhi
+				city=New Delhi
+				mobile_number=9876543210
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:57:44 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept,Cookie,Accept-Encoding
+Referrer-Policy: same-origin
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Allow: OPTIONS, PUT
+X-Powered-By: Phusion Passenger(R) 6.0.23
+Status: 200 OK
+Server: cloudflare
+Cf-Cache-Status: DYNAMIC
+Content-Encoding: gzip
+CF-RAY: 9299f8754cb2a8e5-SIN
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 200, "message": "User updated!"}</body>
+</html>
+Request method:	PUT
+Request URI:	https://automationexercise.com/api/updateAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	name=Meera
+				email=meera22@eml.com
+				password=pass456
+				title=Ms
+				birth_date=10
+				birth_month=February
+				birth_year=1995
+				firstname=Meera
+				lastname=Iyer
+				company=CTS
+				address1=456 Lane
+				address2=Block B
+				country=India
+				zipcode=560002
+				state=Karnataka
+				city=Bangalore
+				mobile_number=9876543221
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:57:46 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept,Cookie,Accept-Encoding
+Referrer-Policy: same-origin
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Allow: OPTIONS, PUT
+X-Powered-By: Phusion Passenger(R) 6.0.23
+Status: 200 OK
+Server: cloudflare
+Cf-Cache-Status: DYNAMIC
+Content-Encoding: gzip
+CF-RAY: 9299f8818e29fd69-SIN
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 200, "message": "User updated!"}</body>
+</html>
+Request method:	PUT
+Request URI:	https://automationexercise.com/api/updateAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	name=Rahul
+				email=rahul23@eml.com
+				password=pass789
+				title=Mr
+				birth_date=15
+				birth_month=March
+				birth_year=1988
+				firstname=Rahul
+				lastname=Kumar
+				company=Wipro
+				address1=789 Road
+				address2=Suite 10
+				country=India
+				zipcode=400003
+				state=Maharashtra
+				city=Mumbai
+				mobile_number=9876543232
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:57:47 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: OPTIONS, PUT
+x-powered-by: Phusion Passenger(R) 6.0.23
+status: 200 OK
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=im8XCVCco7aJMVkQTPZv6%2FAJD3Cxda%2F3fYKLjM1F39MyLlhpxK0M13rjEfido0npWQCgXgH4ZeAOcbOVnK1gklBQFYdTS%2Fy6%2FTWkv6VnA52xyqNmmYzJBZQ2ZeEyHACh0cbOg4z3AM%2B4"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 9299f88b6ce0fd89-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=76774&min_rtt=76542&rtt_var=21911&sent=7&recv=7&lost=0&retrans=0&sent_bytes=2872&recv_bytes=992&delivery_rate=36697&cwnd=252&unsent_bytes=0&cid=01d810f1e86e69ce&ts=713&x=0"
+
+<html>
+  <body>{"responseCode": 200, "message": "User updated!"}</body>
+</html>
+Request method:	PUT
+Request URI:	https://automationexercise.com/api/updateAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	name=Sita
+				email=sita24@eml.com
+				password=pass321
+				title=Mrs
+				birth_date=20
+				birth_month=April
+				birth_year=1992
+				firstname=Sita
+				lastname=Verma
+				company=InfoTech
+				address1=101 Street
+				address2=Floor 2
+				country=India
+				zipcode=600004
+				state=Tamil Nadu
+				city=Chennai
+				mobile_number=9876543243
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:57:49 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept,Cookie,Accept-Encoding
+Referrer-Policy: same-origin
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Allow: OPTIONS, PUT
+X-Powered-By: Phusion Passenger(R) 6.0.23
+Status: 200 OK
+Server: cloudflare
+Cf-Cache-Status: DYNAMIC
+Content-Encoding: gzip
+CF-RAY: 9299f891cc439c80-SIN
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 200, "message": "User updated!"}</body>
+</html>
+Request method:	PUT
+Request URI:	https://automationexercise.com/api/updateAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	name=Vikram
+				email=vikram25@eml.com
+				password=pass654
+				title=Mr
+				birth_date=25
+				birth_month=May
+				birth_year=1985
+				firstname=Vikram
+				lastname=Singh
+				company=Zoho
+				address1=202 Avenue
+				address2=Unit 3
+				country=India
+				zipcode=700005
+				state=West Bengal
+				city=Kolkata
+				mobile_number=9876543254
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:57:50 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept,Cookie,Accept-Encoding
+Referrer-Policy: same-origin
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Allow: OPTIONS, PUT
+X-Powered-By: Phusion Passenger(R) 6.0.23
+Status: 200 OK
+Server: cloudflare
+Cf-Cache-Status: DYNAMIC
+Content-Encoding: gzip
+CF-RAY: 9299f8998981823b-SIN
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 200, "message": "User updated!"}</body>
+</html>
+Request method:	PUT
+Request URI:	https://automationexercise.com/api/updateAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	name=Priya
+				email=priya26@eml.com
+				password=pass987
+				title=Ms
+				birth_date=30
+				birth_month=June
+				birth_year=1998
+				firstname=Priya
+				lastname=Menon
+				company=TCS
+				address1=303 Street
+				address2=Tower 5
+				country=India
+				zipcode=500006
+				state=Telangana
+				city=Hyderabad
+				mobile_number=9876543265
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:57:52 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: OPTIONS, PUT
+x-powered-by: Phusion Passenger(R) 6.0.23
+status: 200 OK
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=IJnch9YSxx9T5oE%2F%2BxsKS89aV%2B9og9UPheQhSG9CyGxrNokS9VY%2FAYwXbz4X4gY17wZa2mdJIasM26AwIotH0WrH9h6yUSSKc5T1p5Nz7aQFjoXu%2BuHDIp4Ps6h3hRMVqdT5IbbG7OiD"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 9299f8a6b8aeff85-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=81867&min_rtt=81013&rtt_var=30990&sent=10&recv=8&lost=0&retrans=2&sent_bytes=2975&recv_bytes=991&delivery_rate=35549&cwnd=234&unsent_bytes=0&cid=d44c4d4f04029b96&ts=1772&x=0"
+
+<html>
+  <body>{"responseCode": 200, "message": "User updated!"}</body>
+</html>
+Request method:	PUT
+Request URI:	https://automationexercise.com/api/updateAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	name=Amit
+				email=amit27@eml.com
+				password=pass111
+				title=Mr
+				birth_date=5
+				birth_month=July
+				birth_year=1983
+				firstname=Amit
+				lastname=Joshi
+				company=CTS
+				address1=404 Road
+				address2=Building 6
+				country=India
+				zipcode=380007
+				state=Gujarat
+				city=Ahmedabad
+				mobile_number=9876543276
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:57:53 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: OPTIONS, PUT
+x-powered-by: Phusion Passenger(R) 6.0.23
+status: 200 OK
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=KNhYjxA%2FxSaOo1FrIkg79EdGZi3abHokAJzOnRFAj%2BVyJ88BjEAJu1CHaaAaoOtQ9zh8ptlsy0pUHN%2BN9lGlc5MNQjXmmzk9e3WGXFK7ysKVW%2Bn7hV%2BTBkqxu%2BX8%2FGs8b4Nmc3toLbn5"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 9299f8b2ceec87dd-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=179970&min_rtt=175978&rtt_var=73976&sent=8&recv=8&lost=0&retrans=1&sent_bytes=4255&recv_bytes=986&delivery_rate=7680&cwnd=252&unsent_bytes=0&cid=f1757d019e5ea673&ts=1116&x=0"
+
+<html>
+  <body>{"responseCode": 200, "message": "User updated!"}</body>
+</html>
+Request method:	PUT
+Request URI:	https://automationexercise.com/api/updateAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	name=Neha
+				email=neha28@eml.com
+				password=pass222
+				title=Mrs
+				birth_date=10
+				birth_month=August
+				birth_year=1996
+				firstname=Neha
+				lastname=Kapoor
+				company=Wipro
+				address1=505 Circle
+				address2=Villa 7
+				country=India
+				zipcode=110008
+				state=Delhi
+				city=New Delhi
+				mobile_number=9876543287
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:57:55 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept,Cookie,Accept-Encoding
+Referrer-Policy: same-origin
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Allow: OPTIONS, PUT
+X-Powered-By: Phusion Passenger(R) 6.0.23
+Status: 200 OK
+Server: cloudflare
+Cf-Cache-Status: DYNAMIC
+Content-Encoding: gzip
+CF-RAY: 9299f8b85bc7ce46-SIN
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 200, "message": "User updated!"}</body>
+</html>
+Request method:	PUT
+Request URI:	https://automationexercise.com/api/updateAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	name=Rohan
+				email=rohan29@eml.com
+				password=pass333
+				title=Mr
+				birth_date=15
+				birth_month=September
+				birth_year=1991
+				firstname=Rohan
+				lastname=Tiwari
+				company=InfoTech
+				address1=606 Square
+				address2=Penthouse
+				country=India
+				zipcode=220009
+				state=Uttar Pradesh
+				city=Lucknow
+				mobile_number=9876543298
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:57:58 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept,Cookie,Accept-Encoding
+Referrer-Policy: same-origin
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Allow: OPTIONS, PUT
+X-Powered-By: Phusion Passenger(R) 6.0.23
+Status: 200 OK
+Server: cloudflare
+Cf-Cache-Status: DYNAMIC
+Content-Encoding: gzip
+CF-RAY: 9299f8cbfbb7602d-SIN
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 200, "message": "User updated!"}</body>
+</html>
+Request method:	PUT
+Request URI:	https://automationexercise.com/api/updateAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	name=Ananya
+				email=ananya122@eml.com
+				password=pass444
+				title=Ms
+				birth_date=20
+				birth_month=October
+				birth_year=1993
+				firstname=Ananya
+				lastname=Das
+				company=Zoho
+				address1=707 Plaza
+				address2=Flat 8
+				country=India
+				zipcode=800010
+				state=Bihar
+				city=Patna
+				mobile_number=9876543309
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:58:01 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: OPTIONS, PUT
+x-powered-by: Phusion Passenger(R) 6.0.23
+status: 200 OK
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=Q3kqgmD0JDdTKZ54mf4ximHaAUva%2FneHdJ%2BRfpQr8IZSArcqEGGsbZeyuDK5S0z6r7eK64%2BCxr4SQObOzJI8r5sbWpihu%2ByULCoCG7nxozAOy5p2ey3q4Mt7mj6fGy29tcCL%2Fk%2BNEawz"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 9299f8db9d06a03c-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=331198&min_rtt=295108&rtt_var=128974&sent=7&recv=7&lost=0&retrans=0&sent_bytes=2873&recv_bytes=987&delivery_rate=9759&cwnd=243&unsent_bytes=0&cid=159b4ba26a392e22&ts=1904&x=0"
+
+<html>
+  <body>{"responseCode": 200, "message": "User updated!"}</body>
+</html>
+Request method:	GET
+Request URI:	https://automationexercise.com/api/getUserDetailByEmail?email=arun22%40eml.com
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:58:02 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: GET, OPTIONS, POST, PUT, DELETE
+x-powered-by: Phusion Passenger(R) 6.0.23
+status: 200 OK
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=aOrg81aTNM0tC1bzk836JrsZdO57mbypHdIP50C9HzONDJp2lGiyaWx9wBU1CzuGkIfcTDnUw2DPO6JKjJujBD8Wbst53HWVTwz2FqiMX6gc6fgYO7AvFYDzjzs2Di0X6NXe0mQNWGEZ"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 9299f8e4ea60fdb2-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=67093&min_rtt=63771&rtt_var=16540&sent=7&recv=8&lost=0&retrans=0&sent_bytes=2873&recv_bytes=724&delivery_rate=45157&cwnd=252&unsent_bytes=0&cid=43942fd8c20e2905&ts=1001&x=0"
+
+<html>
+  <body>{"responseCode": 200, "user": {"id": 629125, "name": "Arun", "email": "arun22@eml.com", "title": "Mr", "birth_day": "5", "birth_month": "January", "birth_year": "1990", "first_name": "Arun", "last_name": "Sharma", "company": "TCS", "address1": "123 Street", "address2": "Apt 4", "country": "India", "state": "Delhi", "city": "New Delhi", "zipcode": "110001"}}</body>
+</html>
+Request method:	GET
+Request URI:	https://automationexercise.com/api/getUserDetailByEmail?email=arun22%40eml.com
+Proxy:			<none>
+Request params:	<none>
+Query params:	email=arun22@eml.com
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:58:03 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept,Cookie,Accept-Encoding
+Referrer-Policy: same-origin
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Allow: GET, OPTIONS, POST, PUT, DELETE
+X-Powered-By: Phusion Passenger(R) 6.0.23
+Status: 200 OK
+Server: cloudflare
+Cf-Cache-Status: DYNAMIC
+Content-Encoding: gzip
+CF-RAY: 9299f8eda8c7f902-SIN
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 200, "user": {"id": 629126, "name": "Meera", "email": "meera22@eml.com", "title": "Ms", "birth_day": "10", "birth_month": "February", "birth_year": "1995", "first_name": "Meera", "last_name": "Iyer", "company": "CTS", "address1": "456 Lane", "address2": "Block B", "country": "India", "state": "Karnataka", "city": "Bangalore", "zipcode": "560002"}}</body>
+</html>
+Request method:	GET
+Request URI:	https://automationexercise.com/api/getUserDetailByEmail?email=arun22%40eml.com&email=meera22%40eml.com
+Proxy:			<none>
+Request params:	<none>
+Query params:	email=[arun22@eml.com, meera22@eml.com]
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:58:05 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept,Cookie,Accept-Encoding
+Referrer-Policy: same-origin
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Allow: GET, OPTIONS, POST, PUT, DELETE
+X-Powered-By: Phusion Passenger(R) 6.0.23
+Status: 200 OK
+Server: cloudflare
+Cf-Cache-Status: DYNAMIC
+Content-Encoding: gzip
+CF-RAY: 9299f8f6bc968365-SIN
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 200, "user": {"id": 629127, "name": "Rahul", "email": "rahul23@eml.com", "title": "Mr", "birth_day": "15", "birth_month": "March", "birth_year": "1988", "first_name": "Rahul", "last_name": "Kumar", "company": "Wipro", "address1": "789 Road", "address2": "Suite 10", "country": "India", "state": "Maharashtra", "city": "Mumbai", "zipcode": "400003"}}</body>
+</html>
+Request method:	GET
+Request URI:	https://automationexercise.com/api/getUserDetailByEmail?email=arun22%40eml.com&email=meera22%40eml.com&email=rahul23%40eml.com
+Proxy:			<none>
+Request params:	<none>
+Query params:	email=[arun22@eml.com, meera22@eml.com, rahul23@eml.com]
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:58:06 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept,Cookie,Accept-Encoding
+Referrer-Policy: same-origin
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Allow: GET, OPTIONS, POST, PUT, DELETE
+X-Powered-By: Phusion Passenger(R) 6.0.23
+Status: 200 OK
+Server: cloudflare
+Cf-Cache-Status: DYNAMIC
+Content-Encoding: gzip
+CF-RAY: 9299f8ffad19fe90-SIN
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 200, "user": {"id": 629128, "name": "Sita", "email": "sita24@eml.com", "title": "Mrs", "birth_day": "20", "birth_month": "April", "birth_year": "1992", "first_name": "Sita", "last_name": "Verma", "company": "InfoTech", "address1": "101 Street", "address2": "Floor 2", "country": "India", "state": "Tamil Nadu", "city": "Chennai", "zipcode": "600004"}}</body>
+</html>
+Request method:	GET
+Request URI:	https://automationexercise.com/api/getUserDetailByEmail?email=arun22%40eml.com&email=meera22%40eml.com&email=rahul23%40eml.com&email=sita24%40eml.com
+Proxy:			<none>
+Request params:	<none>
+Query params:	email=[arun22@eml.com, meera22@eml.com, rahul23@eml.com, sita24@eml.com]
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:58:08 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept,Cookie,Accept-Encoding
+Referrer-Policy: same-origin
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Allow: GET, OPTIONS, POST, PUT, DELETE
+X-Powered-By: Phusion Passenger(R) 6.0.23
+Status: 200 OK
+Server: cloudflare
+Cf-Cache-Status: DYNAMIC
+Content-Encoding: gzip
+CF-RAY: 9299f908ae73fd2a-SIN
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 200, "user": {"id": 629129, "name": "Vikram", "email": "vikram25@eml.com", "title": "Mr", "birth_day": "25", "birth_month": "May", "birth_year": "1985", "first_name": "Vikram", "last_name": "Singh", "company": "Zoho", "address1": "202 Avenue", "address2": "Unit 3", "country": "India", "state": "West Bengal", "city": "Kolkata", "zipcode": "700005"}}</body>
+</html>
+Request method:	GET
+Request URI:	https://automationexercise.com/api/getUserDetailByEmail?email=arun22%40eml.com&email=meera22%40eml.com&email=rahul23%40eml.com&email=sita24%40eml.com&email=vikram25%40eml.com
+Proxy:			<none>
+Request params:	<none>
+Query params:	email=[arun22@eml.com, meera22@eml.com, rahul23@eml.com, sita24@eml.com, vikram25@eml.com]
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:58:09 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: GET, OPTIONS, POST, PUT, DELETE
+x-powered-by: Phusion Passenger(R) 6.0.23
+status: 200 OK
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=F2b%2BwEoyQtRt28Ri39NixVDpUuYXLTSqZleWknFkTNsAT9uz51l9GPkGd9uutve9onpDJFGC4Y3CtXpQauP4kuZ46NWe0%2FV9YiSiMauf%2FtAbsX6ys6Av9%2Fz3c7iYEZyW7GMspsAv%2FPtU"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 9299f911cd12daa5-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=78129&min_rtt=67386&rtt_var=27652&sent=7&recv=8&lost=0&retrans=0&sent_bytes=2874&recv_bytes=844&delivery_rate=42738&cwnd=251&unsent_bytes=0&cid=7bf2fef266c34e74&ts=1120&x=0"
+
+<html>
+  <body>{"responseCode": 200, "user": {"id": 629130, "name": "Priya", "email": "priya26@eml.com", "title": "Ms", "birth_day": "30", "birth_month": "June", "birth_year": "1998", "first_name": "Priya", "last_name": "Menon", "company": "TCS", "address1": "303 Street", "address2": "Tower 5", "country": "India", "state": "Telangana", "city": "Hyderabad", "zipcode": "500006"}}</body>
+</html>
+Request method:	GET
+Request URI:	https://automationexercise.com/api/getUserDetailByEmail?email=arun22%40eml.com&email=meera22%40eml.com&email=rahul23%40eml.com&email=sita24%40eml.com&email=vikram25%40eml.com&email=priya26%40eml.com
+Proxy:			<none>
+Request params:	<none>
+Query params:	email=[arun22@eml.com, meera22@eml.com, rahul23@eml.com, sita24@eml.com, vikram25@eml.com, priya26@eml.com]
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:58:10 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: GET, OPTIONS, POST, PUT, DELETE
+x-powered-by: Phusion Passenger(R) 6.0.23
+status: 200 OK
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=xUiskRM5zv48D7v5Pqq2PE9PZu9GtI2zRKINVjG3wY2AphfZahBqmaL5897LZ8eRC6ecV8wQzp1o0sIkoGsaJEmuHv0IZsj0HC6WdSPhBUqK%2BRI6UPgc%2F86orV5Az6F%2BwbaoqieXcD9k"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 9299f91a1b5340e0-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=65825&min_rtt=63510&rtt_var=19329&sent=7&recv=7&lost=0&retrans=0&sent_bytes=2873&recv_bytes=867&delivery_rate=45347&cwnd=251&unsent_bytes=0&cid=d67401cc6cf2d806&ts=493&x=0"
+
+<html>
+  <body>{"responseCode": 200, "user": {"id": 629131, "name": "Amit", "email": "amit27@eml.com", "title": "Mr", "birth_day": "5", "birth_month": "July", "birth_year": "1983", "first_name": "Amit", "last_name": "Joshi", "company": "CTS", "address1": "404 Road", "address2": "Building 6", "country": "India", "state": "Gujarat", "city": "Ahmedabad", "zipcode": "380007"}}</body>
+</html>
+Request method:	GET
+Request URI:	https://automationexercise.com/api/getUserDetailByEmail?email=arun22%40eml.com&email=meera22%40eml.com&email=rahul23%40eml.com&email=sita24%40eml.com&email=vikram25%40eml.com&email=priya26%40eml.com&email=amit27%40eml.com
+Proxy:			<none>
+Request params:	<none>
+Query params:	email=[arun22@eml.com, meera22@eml.com, rahul23@eml.com, sita24@eml.com, vikram25@eml.com, priya26@eml.com, amit27@eml.com]
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:58:12 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept,Cookie,Accept-Encoding
+Referrer-Policy: same-origin
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Allow: GET, OPTIONS, POST, PUT, DELETE
+X-Powered-By: Phusion Passenger(R) 6.0.23
+Status: 200 OK
+Server: cloudflare
+Cf-Cache-Status: DYNAMIC
+Content-Encoding: gzip
+CF-RAY: 9299f923ecf35fb1-SIN
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 200, "user": {"id": 629132, "name": "Neha", "email": "neha28@eml.com", "title": "Mrs", "birth_day": "10", "birth_month": "August", "birth_year": "1996", "first_name": "Neha", "last_name": "Kapoor", "company": "Wipro", "address1": "505 Circle", "address2": "Villa 7", "country": "India", "state": "Delhi", "city": "New Delhi", "zipcode": "110008"}}</body>
+</html>
+Request method:	GET
+Request URI:	https://automationexercise.com/api/getUserDetailByEmail?email=arun22%40eml.com&email=meera22%40eml.com&email=rahul23%40eml.com&email=sita24%40eml.com&email=vikram25%40eml.com&email=priya26%40eml.com&email=amit27%40eml.com&email=neha28%40eml.com
+Proxy:			<none>
+Request params:	<none>
+Query params:	email=[arun22@eml.com, meera22@eml.com, rahul23@eml.com, sita24@eml.com, vikram25@eml.com, priya26@eml.com, amit27@eml.com, neha28@eml.com]
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:58:14 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: GET, OPTIONS, POST, PUT, DELETE
+x-powered-by: Phusion Passenger(R) 6.0.23
+status: 200 OK
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=Rl4%2FqgKLIXXewARHPz1SH%2FN9Y6wsbRF2JSpWCLeGgYuZ%2Bl8aBm%2FquJKELrHaT6lqwoTnH7gcYhklKU56AagMe9On5d2T7dLCwm3LNVdscqqDmzkmeENHZxaa5ihS%2BDd4Sp8kboVdHGSS"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 9299f9325fcbce6f-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=87606&min_rtt=66105&rtt_var=37592&sent=8&recv=8&lost=0&retrans=0&sent_bytes=2873&recv_bytes=914&delivery_rate=43567&cwnd=252&unsent_bytes=0&cid=4c169931baeec4f2&ts=697&x=0"
+
+<html>
+  <body>{"responseCode": 200, "user": {"id": 629133, "name": "Rohan", "email": "rohan29@eml.com", "title": "Mr", "birth_day": "15", "birth_month": "September", "birth_year": "1991", "first_name": "Rohan", "last_name": "Tiwari", "company": "InfoTech", "address1": "606 Square", "address2": "Penthouse", "country": "India", "state": "Uttar Pradesh", "city": "Lucknow", "zipcode": "220009"}}</body>
+</html>
+Request method:	GET
+Request URI:	https://automationexercise.com/api/getUserDetailByEmail?email=arun22%40eml.com&email=meera22%40eml.com&email=rahul23%40eml.com&email=sita24%40eml.com&email=vikram25%40eml.com&email=priya26%40eml.com&email=amit27%40eml.com&email=neha28%40eml.com&email=rohan29%40eml.com
+Proxy:			<none>
+Request params:	<none>
+Query params:	email=[arun22@eml.com, meera22@eml.com, rahul23@eml.com, sita24@eml.com, vikram25@eml.com, priya26@eml.com, amit27@eml.com, neha28@eml.com, rohan29@eml.com]
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:58:15 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept,Cookie,Accept-Encoding
+Referrer-Policy: same-origin
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Allow: GET, OPTIONS, POST, PUT, DELETE
+X-Powered-By: Phusion Passenger(R) 6.0.23
+Status: 200 OK
+Server: cloudflare
+Cf-Cache-Status: DYNAMIC
+Content-Encoding: gzip
+CF-RAY: 9299f9383f1b4104-SIN
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 200, "user": {"id": 629134, "name": "Ananya", "email": "ananya122@eml.com", "title": "Ms", "birth_day": "20", "birth_month": "October", "birth_year": "1993", "first_name": "Ananya", "last_name": "Das", "company": "Zoho", "address1": "707 Plaza", "address2": "Flat 8", "country": "India", "state": "Bihar", "city": "Patna", "zipcode": "800010"}}</body>
+</html>
+Request method:	DELETE
+Request URI:	https://automationexercise.com/api/deleteAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	email=arun22@eml.com
+				password=pass123
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:58:18 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept,Cookie,Accept-Encoding
+Referrer-Policy: same-origin
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Allow: OPTIONS, DELETE
+X-Powered-By: Phusion Passenger(R) 6.0.23
+Status: 200 OK
+Server: cloudflare
+Cf-Cache-Status: DYNAMIC
+Content-Encoding: gzip
+CF-RAY: 9299f9493fff5cd8-SIN
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 200, "message": "Account deleted!"}</body>
+</html>
+Request method:	DELETE
+Request URI:	https://automationexercise.com/api/deleteAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	email=meera22@eml.com
+				password=pass456
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:58:20 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: OPTIONS, DELETE
+x-powered-by: Phusion Passenger(R) 6.0.23
+status: 200 OK
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=7gAoNQqInT4Ok8aahvmjQ61u0BbK%2BMdfmeazRo5h%2FHKImOd5JGRfcBrpZe5M%2Fc1HE5dp9Yy0lbEuIm%2Bq3K9EST5PxwSxZTzp65LF4McukERqxuqc9OtEOeKECWzVAvwaqIxlqYg81oJR"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 9299f9529c1b5fde-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=64480&min_rtt=64223&rtt_var=18256&sent=8&recv=8&lost=0&retrans=0&sent_bytes=2873&recv_bytes=757&delivery_rate=44843&cwnd=249&unsent_bytes=0&cid=a7c9941c5ae4d3df&ts=1130&x=0"
+
+<html>
+  <body>{"responseCode": 200, "message": "Account deleted!"}</body>
+</html>
+Request method:	DELETE
+Request URI:	https://automationexercise.com/api/deleteAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	email=rahul23@eml.com
+				password=pass789
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:58:20 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: OPTIONS, DELETE
+x-powered-by: Phusion Passenger(R) 6.0.23
+status: 200 OK
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=o8rtp2CkVBFNd3sdFFJ0syVdhfXLXlvW80fmfQb0dCxmZFAu2EHuKqIDjwnTRAjYI4avm%2BMkKjXfnQdYEc%2Bl%2FHmWL5BcgStKwXSub2oCKMPpMqFglk9rjI%2BTAul3Z2xZ3t5JP1NJUBrZ"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 9299f95b9843fe10-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=68557&min_rtt=65162&rtt_var=20228&sent=7&recv=7&lost=0&retrans=0&sent_bytes=2873&recv_bytes=757&delivery_rate=44197&cwnd=252&unsent_bytes=0&cid=19793b6a300a4319&ts=595&x=0"
+
+<html>
+  <body>{"responseCode": 200, "message": "Account deleted!"}</body>
+</html>
+Request method:	DELETE
+Request URI:	https://automationexercise.com/api/deleteAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	email=sita24@eml.com
+				password=pass321
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:58:23 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: OPTIONS, DELETE
+x-powered-by: Phusion Passenger(R) 6.0.23
+status: 200 OK
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=IOtrZnNNLsSpYoonxNfxZgMNzjcPMt7L%2BPE4PEXWKQ%2B0BGkzMyFJUfMWRkwmjHC45V3%2B9YsWRPX0E0mWQWM1IBsNP%2BzDKZx1kypD0ym2%2BG2Hsb4t%2ByoIvAGM2Bv7Oy%2BrxGS%2F%2BaGVWrDU"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 9299f9657ce7a08f-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=318925&min_rtt=294896&rtt_var=87133&sent=7&recv=8&lost=0&retrans=0&sent_bytes=2873&recv_bytes=756&delivery_rate=9721&cwnd=239&unsent_bytes=0&cid=9f1de199190ee9bf&ts=1631&x=0"
+
+<html>
+  <body>{"responseCode": 200, "message": "Account deleted!"}</body>
+</html>
+Request method:	DELETE
+Request URI:	https://automationexercise.com/api/deleteAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	email=vikram25@eml.com
+				password=pass654
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:58:24 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept,Cookie,Accept-Encoding
+Referrer-Policy: same-origin
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Allow: OPTIONS, DELETE
+X-Powered-By: Phusion Passenger(R) 6.0.23
+Status: 200 OK
+Server: cloudflare
+Cf-Cache-Status: DYNAMIC
+Content-Encoding: gzip
+CF-RAY: 9299f9704ad63dbf-SIN
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 200, "message": "Account deleted!"}</body>
+</html>
+Request method:	DELETE
+Request URI:	https://automationexercise.com/api/deleteAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	email=priya26@eml.com
+				password=pass987
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:58:26 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept,Cookie,Accept-Encoding
+Referrer-Policy: same-origin
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Allow: OPTIONS, DELETE
+X-Powered-By: Phusion Passenger(R) 6.0.23
+Status: 200 OK
+Server: cloudflare
+Cf-Cache-Status: DYNAMIC
+Content-Encoding: gzip
+CF-RAY: 9299f9792e51fe03-SIN
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 200, "message": "Account deleted!"}</body>
+</html>
+Request method:	DELETE
+Request URI:	https://automationexercise.com/api/deleteAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	email=amit27@eml.com
+				password=pass111
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:58:27 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: OPTIONS, DELETE
+x-powered-by: Phusion Passenger(R) 6.0.23
+status: 200 OK
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=pPdQMwH90tZm9i8sOmU1A%2BROgtTEC3%2FnFBZ4wN8Ei%2BxRfDPUIQehrFxwC84vEAIGwMuHUPkhdTg2lNmaYHI4nL8yJcBJUP8ZhOiHAgYYYCfuQZsjLhdAaIu4b2hFWdZERq3oEYTg16tk"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 9299f9821f5e4c7d-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=64419&min_rtt=60870&rtt_var=19738&sent=7&recv=7&lost=0&retrans=0&sent_bytes=2872&recv_bytes=756&delivery_rate=42608&cwnd=244&unsent_bytes=0&cid=3f57cedf4a2e845d&ts=1171&x=0"
+
+<html>
+  <body>{"responseCode": 200, "message": "Account deleted!"}</body>
+</html>
+Request method:	DELETE
+Request URI:	https://automationexercise.com/api/deleteAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	email=neha28@eml.com
+				password=pass222
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:58:34 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: OPTIONS, DELETE
+x-powered-by: Phusion Passenger(R) 6.0.23
+status: 200 OK
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=DUGqTj1jMfxt%2ByKOVXGJ8ndE0D%2BT9unExnDYJyB%2F7KKk1F8%2BMtitMKoumjqQ%2BUN3z9qv8GouzOWhjkmK%2FvnJ%2Bo8v2aHWw3NlarWRqXfWdzVje831FoM8izOfWH63GVS%2B2e3ctrSsgIXF"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 9299f9ab4920fd84-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=63487&min_rtt=63487&rtt_var=31743&sent=9&recv=8&lost=0&retrans=3&sent_bytes=5695&recv_bytes=756&delivery_rate=22681&cwnd=252&unsent_bytes=0&cid=9d45d2ca427d34fb&ts=5284&x=0"
+
+<html>
+  <body>{"responseCode": 200, "message": "Account deleted!"}</body>
+</html>
+Request method:	DELETE
+Request URI:	https://automationexercise.com/api/deleteAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	email=rohan29@eml.com
+				password=pass333
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:58:35 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept,Cookie,Accept-Encoding
+Referrer-Policy: same-origin
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Allow: OPTIONS, DELETE
+X-Powered-By: Phusion Passenger(R) 6.0.23
+Status: 200 OK
+Server: cloudflare
+Cf-Cache-Status: DYNAMIC
+Content-Encoding: gzip
+CF-RAY: 9299f9b30f53fd15-SIN
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 200, "message": "Account deleted!"}</body>
+</html>
+Request method:	DELETE
+Request URI:	https://automationexercise.com/api/deleteAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	email=ananya122@eml.com
+				password=pass444
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 01 Apr 2025 17:58:36 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: OPTIONS, DELETE
+x-powered-by: Phusion Passenger(R) 6.0.23
+status: 200 OK
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=dvtOaEr%2Fs0wxubnSQKAWSpMj3TPACUuvrX0%2FQUSlQTXZRpenExup%2BANQPmyQOZivkhoxA7ly2RIBYKj78%2BOsvXCZe6kdTIbXxA6PWD9XRyC5A8tZm522IMpUxEy7aAjiKf%2BSFlma9IoN"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 9299f9bb58cb3df5-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=64287&min_rtt=63964&rtt_var=14011&sent=7&recv=8&lost=0&retrans=0&sent_bytes=2873&recv_bytes=759&delivery_rate=44478&cwnd=246&unsent_bytes=0&cid=fced3a8721310cd5&ts=1075&x=0"
+
+<html>
+  <body>{"responseCode": 200, "message": "Account deleted!"}</body>
+</html>
