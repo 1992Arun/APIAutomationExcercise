@@ -1,0 +1,547 @@
+[
+  {
+    "line": 3,
+    "elements": [
+      {
+        "start_timestamp": "2025-04-01T17:57:12.294Z",
+        "line": 8,
+        "name": "Verify GET request API",
+        "description": "",
+        "id": "verify-automationexcercies-apis;verify-get-request-api",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 936730900,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I send the Base URI with request spec builder",
+            "match": {
+              "location": "StepDefinition.i_send_the_Base_URI_with_request_spec_builder()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3432154300,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I send the \"GET\" request with \"GETRequest\" endpoint",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"GET\"",
+                  "offset": 11
+                },
+                {
+                  "val": "\"GETRequest\"",
+                  "offset": 30
+                }
+              ],
+              "location": "StepDefinition.i_send_the_request_with_endpoint(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 964934600,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I verify the \"GET\" response and response code 200",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"GET\"",
+                  "offset": 13
+                },
+                {
+                  "val": "200",
+                  "offset": 46
+                }
+              ],
+              "location": "StepDefinition.i_verify_the_response_and_response_code(String,int)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@E2E"
+          },
+          {
+            "name": "@Get"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2025-04-01T17:57:17.646Z",
+        "line": 19,
+        "name": "Verify POST request API",
+        "description": "",
+        "id": "verify-automationexcercies-apis;verify-post-request-api",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2666300,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "I send the Base URI with request spec builder",
+            "match": {
+              "location": "StepDefinition.i_send_the_Base_URI_with_request_spec_builder()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1831796300,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "I send the \"POSTSearchProduct\" request with \"POSTSearchProduct\" endpoint",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"POSTSearchProduct\"",
+                  "offset": 11
+                },
+                {
+                  "val": "\"POSTSearchProduct\"",
+                  "offset": 44
+                }
+              ],
+              "location": "StepDefinition.i_send_the_request_with_endpoint(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 80665600,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "I verify the \"POSTSearchProduct\" response and response code 200",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"POSTSearchProduct\"",
+                  "offset": 13
+                },
+                {
+                  "val": "200",
+                  "offset": 60
+                }
+              ],
+              "location": "StepDefinition.i_verify_the_response_and_response_code(String,int)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@E2E"
+          },
+          {
+            "name": "@PostSearchProduct"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2025-04-01T17:57:19.567Z",
+        "line": 29,
+        "name": "Verify POST request API",
+        "description": "",
+        "id": "verify-automationexcercies-apis;verify-post-request-api",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 9060200,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "I send the Base URI with request spec builder",
+            "match": {
+              "location": "StepDefinition.i_send_the_Base_URI_with_request_spec_builder()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 22293040200,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "I send the \"POSTCeateAccount\" request with \"POSTCreateAccount\" endpoint",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"POSTCeateAccount\"",
+                  "offset": 11
+                },
+                {
+                  "val": "\"POSTCreateAccount\"",
+                  "offset": 43
+                }
+              ],
+              "location": "StepDefinition.i_send_the_request_with_endpoint(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 29162400,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "I verify the \"POSTCeateAccount\" response and response code 200",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"POSTCeateAccount\"",
+                  "offset": 13
+                },
+                {
+                  "val": "200",
+                  "offset": 59
+                }
+              ],
+              "location": "StepDefinition.i_verify_the_response_and_response_code(String,int)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@E2E"
+          },
+          {
+            "name": "@CreateAccount"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2025-04-01T17:57:41.897Z",
+        "line": 41,
+        "name": "Verify POST request API",
+        "description": "",
+        "id": "verify-automationexcercies-apis;verify-post-request-api",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1451900,
+              "status": "passed"
+            },
+            "line": 43,
+            "name": "I send the Base URI with request spec builder",
+            "match": {
+              "location": "StepDefinition.i_send_the_Base_URI_with_request_spec_builder()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1335843800,
+              "status": "passed"
+            },
+            "line": 45,
+            "name": "I send the \"VerifyUserExist\" request with \"VerifyUserExist\" endpoint",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"VerifyUserExist\"",
+                  "offset": 11
+                },
+                {
+                  "val": "\"VerifyUserExist\"",
+                  "offset": 42
+                }
+              ],
+              "location": "StepDefinition.i_send_the_request_with_endpoint(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 77266200,
+              "status": "passed"
+            },
+            "line": 47,
+            "name": "I verify the \"VerifyUserExist\" response and response code 200",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"VerifyUserExist\"",
+                  "offset": 13
+                },
+                {
+                  "val": "200",
+                  "offset": 58
+                }
+              ],
+              "location": "StepDefinition.i_verify_the_response_and_response_code(String,int)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@E2E"
+          },
+          {
+            "name": "@VerifyUserExist"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2025-04-01T17:57:43.318Z",
+        "line": 51,
+        "name": "Verify PUT request API",
+        "description": "",
+        "id": "verify-automationexcercies-apis;verify-put-request-api",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3132900,
+              "status": "passed"
+            },
+            "line": 53,
+            "name": "I send the Base URI with request spec builder",
+            "match": {
+              "location": "StepDefinition.i_send_the_Base_URI_with_request_spec_builder()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 19274845500,
+              "status": "passed"
+            },
+            "line": 55,
+            "name": "I send the \"PUT\" request with \"PUTRequest\" endpoint",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"PUT\"",
+                  "offset": 11
+                },
+                {
+                  "val": "\"PUTRequest\"",
+                  "offset": 30
+                }
+              ],
+              "location": "StepDefinition.i_send_the_request_with_endpoint(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 34395300,
+              "status": "passed"
+            },
+            "line": 57,
+            "name": "I verify the \"PUT\" response and response code 200",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"PUT\"",
+                  "offset": 13
+                },
+                {
+                  "val": "200",
+                  "offset": 46
+                }
+              ],
+              "location": "StepDefinition.i_verify_the_response_and_response_code(String,int)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@E2E"
+          },
+          {
+            "name": "@updateUserDetails"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2025-04-01T17:58:02.633Z",
+        "line": 60,
+        "name": "Verify GET request API",
+        "description": "",
+        "id": "verify-automationexcercies-apis;verify-get-request-api",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2022700,
+              "status": "passed"
+            },
+            "line": 62,
+            "name": "I send the Base URI with request spec builder",
+            "match": {
+              "location": "StepDefinition.i_send_the_Base_URI_with_request_spec_builder()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 14781061800,
+              "status": "passed"
+            },
+            "line": 64,
+            "name": "I send the \"GETUserAccount\" request with \"GETUserAccount\" endpoint",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"GETUserAccount\"",
+                  "offset": 11
+                },
+                {
+                  "val": "\"GETUserAccount\"",
+                  "offset": 41
+                }
+              ],
+              "location": "StepDefinition.i_send_the_request_with_endpoint(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 997300,
+              "status": "passed"
+            },
+            "line": 66,
+            "name": "I verify the \"GETUserAccount\" response and response code 200",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"GETUserAccount\"",
+                  "offset": 13
+                },
+                {
+                  "val": "200",
+                  "offset": 57
+                }
+              ],
+              "location": "StepDefinition.i_verify_the_response_and_response_code(String,int)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@E2E"
+          },
+          {
+            "name": "@GetUserAccount"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2025-04-01T17:58:17.417Z",
+        "line": 70,
+        "name": "Verify DELETE request API",
+        "description": "",
+        "id": "verify-automationexcercies-apis;verify-delete-request-api",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1982700,
+              "status": "passed"
+            },
+            "line": 72,
+            "name": "I send the Base URI with request spec builder",
+            "match": {
+              "location": "StepDefinition.i_send_the_Base_URI_with_request_spec_builder()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 20790987200,
+              "status": "passed"
+            },
+            "line": 74,
+            "name": "I send the \"DELETE\" request with \"DELETERequest\" endpoint",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"DELETE\"",
+                  "offset": 11
+                },
+                {
+                  "val": "\"DELETERequest\"",
+                  "offset": 33
+                }
+              ],
+              "location": "StepDefinition.i_send_the_request_with_endpoint(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 25867000,
+              "status": "passed"
+            },
+            "line": 76,
+            "name": "I verify the \"DELETE\" response and response code 200",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"DELETE\"",
+                  "offset": 13
+                },
+                {
+                  "val": "200",
+                  "offset": 49
+                }
+              ],
+              "location": "StepDefinition.i_verify_the_response_and_response_code(String,int)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@E2E"
+          },
+          {
+            "name": "@DeleteRequest"
+          }
+        ]
+      }
+    ],
+    "name": "Verify AutomationExcercies APIs",
+    "description": "",
+    "id": "verify-automationexcercies-apis",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/CURD.feature",
+    "tags": [
+      {
+        "name": "@E2E",
+        "type": "Tag",
+        "location": {
+          "line": 2,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

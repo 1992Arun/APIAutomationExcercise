@@ -6,7 +6,6 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.PrintStream;
-import java.io.PrintWriter;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
@@ -413,11 +412,11 @@ public class UtilityClass {
 		String write = ob.writeValueAsString(par);
 
 
-		PrintWriter p = new PrintWriter(System.getProperty("user.dir")+"\\src\\test\\resources\\Reports\\new.json");
-
-		p.write(write);
-
-		p.flush();
+//		PrintWriter p = new PrintWriter(System.getProperty("user.dir")+"\\src\\test\\resources\\Reports\\new.json");
+//
+//		p.write(write);
+//
+//		p.flush();
 
 
 	}
