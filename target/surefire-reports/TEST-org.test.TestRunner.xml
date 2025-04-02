@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="0" failures="0" name="org.test.TestRunner" time="0" errors="0" skipped="0">
+<testsuite tests="7" failures="0" name="org.test.TestRunner" time="55.114" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jre1.8.0_333\bin"/>
@@ -27,7 +27,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:\Users\Arun\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf2626640421654848529.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\Arun\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf1004541597848127977.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Program Files\Java\jre1.8.0_333\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_333/bin/server;C:/Program Files/Java/jre1.8.0_333/bin;C:/Program Files/Java/jre1.8.0_333/lib/amd64;C:\Program Files\Common Files\Oracle\Java\javapath;C:\oraclexe\app\oracle\product\10.2.0\server\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Java\jre1.8.0_333\bin;C:\apache-maven-3.9.9\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Arun\AppData\Local\Android\Sdk\platforms;C:\Users\Arun\AppData\Local\Android\Sdk\platform-tools;C:\Program Files\Java\jre1.8.0_333\bin;C:\Users\Arun\AppData\Roaming\npm;;C:\Users\Arun\Downloads\eclipse-committers-oxygen-3a-win32-x86_64\eclipse;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -61,4 +61,11 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
+  <testcase classname="Verify AutomationExcercies APIs" name="Verify GET request API" time="4.789"/>
+  <testcase classname="Verify AutomationExcercies APIs" name="Verify POST request API" time="1.179"/>
+  <testcase classname="Verify AutomationExcercies APIs" name="Verify POST request API" time="12.723"/>
+  <testcase classname="Verify AutomationExcercies APIs" name="Verify POST request API" time="1.185"/>
+  <testcase classname="Verify AutomationExcercies APIs" name="Verify PUT request API" time="11.863"/>
+  <testcase classname="Verify AutomationExcercies APIs" name="Verify GET request API" time="11.867"/>
+  <testcase classname="Verify AutomationExcercies APIs" name="Verify DELETE request API" time="11.508"/>
 </testsuite>

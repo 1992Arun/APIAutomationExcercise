@@ -8,7 +8,6 @@ import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
-
 @CucumberOptions(features="src/test/resources", glue="org.step", dryRun=false,  monochrome=true, plugin= {"pretty", 
 
 		                     "json:src\\test\\resources\\Reports\\jsonreport.json"})

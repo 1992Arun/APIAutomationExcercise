@@ -3,7 +3,7 @@ package org.step;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-import org.testng.asserts.SoftAssert;
+import org.junit.Assert;
 import org.utility.APIEndPoints;
 import org.utility.UtilityClass;
 
@@ -22,7 +22,7 @@ public class StepDefinition extends UtilityClass {
 
 	public static Response response;
 
-	public static SoftAssert s = new SoftAssert();
+	//public static SoftAssert s = new SoftAssert();
 
 	@Given("I send the Base URI with request spec builder")
 	public void i_send_the_Base_URI_with_request_spec_builder() {
@@ -56,13 +56,13 @@ public class StepDefinition extends UtilityClass {
 
 				JsonPath pa = new JsonPath(asString);
 
-				System.out.println(pa.get("user.email"));	
+				System.out.println((String)pa.get("user.email"));	
 
-				SoftAssert s = new SoftAssert();
+				// SoftAssert s = new SoftAssert();
 
-				s.assertTrue(readXL[i][1].equalsIgnoreCase((String) pa.get("user.email")));
-
-				s.assertAll();
+				Assert.assertTrue(readXL[i][1].equalsIgnoreCase((String) pa.get("user.email")));
+//
+//				s.assertAll();
 
 
 			}
@@ -228,18 +228,18 @@ public class StepDefinition extends UtilityClass {
 
 			System.out.println(response.body().asString());
 
-			//	s.assertTrue( response.jsonPath().get("products[0].category") instanceof java.util.Map, " category is an object"); //verify is an Object
+			Assert.assertTrue( " category is an object", response.jsonPath().get("products[0].category") instanceof java.util.Map); //verify is an Object
 
 			//	s.assertTrue(response.jsonPath().get("products[0].brand") instanceof java.util.Map, "brand is not an object"); //verify is an Object
 
-			s.assertTrue(response.jsonPath().get("products[0].category.usertype") instanceof java.util.Map, "usertype is not an object"); //verify is an Object
+			Assert.assertTrue("usertype is not an object", response.jsonPath().get("products[0].category.usertype") instanceof java.util.Map); //verify is an Object
 
-			s.assertTrue(response.jsonPath().get("products[0].brand") instanceof java.lang.String, "brand is not an Array"); //verify is an Object
+			Assert.assertTrue("brand is not an Array", response.jsonPath().get("products[0].brand") instanceof java.lang.String); //verify is an Object
 
 
 			String string2 = response.jsonPath().getString("products[0].name"); // verify is String
 
-			s.assertTrue(response.jsonPath().getString("products[0].name") instanceof java.lang.String,"name is String ");
+			Assert.assertTrue("name is String ",response.jsonPath().getString("products[0].name") instanceof java.lang.String);
 
 			System.out.println("name is String: "+ string2);
 
@@ -247,11 +247,11 @@ public class StepDefinition extends UtilityClass {
 
 			System.out.println("responseCode is number: "+ int2);  // verify if integer
 
-			s.assertTrue(response.jsonPath().get("products") instanceof java.util.List); // verify is an array
+			Assert.assertTrue(response.jsonPath().get("products") instanceof java.util.List); // verify is an array
 
-			s.assertTrue(products instanceof java.util.List);
+			Assert.assertTrue(products instanceof java.util.List);
 
-			s.assertAll();
+			
 
 
 		} else if (string.equalsIgnoreCase("GETUserAccount")) {
